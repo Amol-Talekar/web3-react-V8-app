@@ -36,9 +36,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 # Output
 1) Connecting to Metamask
 
-![Screenshot (35)](https://user-images.githubusercontent.com/76869468/210205930-e842cfeb-fbfb-44f5-8be7-c54dba668b2a.png)
+![Screenshot (37)](https://user-images.githubusercontent.com/76869468/210206239-72aa9b70-c9de-413d-b483-a5163df4470b.png)
+
 
 2) Displaying all the user data after connecting to Metamask
 
-![Screenshot (36)](https://user-images.githubusercontent.com/76869468/210205946-2d4a7107-f3d3-4bb8-a847-0486d565492e.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/76869468/210206248-8df30ece-4f6e-434c-89dc-fec80a7ad763.png)
 
